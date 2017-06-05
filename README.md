@@ -1,6 +1,6 @@
 # Angular-2-Simple-Task-List
 
-![Alt text](/Screenshot-SS.png?raw=true "Optional Title")
+![Alt text](https://github.com/jaye1/Angular-2-Simple-Task-List/blob/master/Example-SS.png)
 
 A simple task list created using Angular2, Node.js, express, and MongoDB (mlab)
 
