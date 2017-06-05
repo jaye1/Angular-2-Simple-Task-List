@@ -1,4 +1,7 @@
 # Angular-2-Simple-Task-List
+
+![Alt text](/Screenshot-SS.png?raw=true "Optional Title")
+
 A simple task list created using Angular2, Node.js, express, and MongoDB (mlab)
 
 To install clone project 
